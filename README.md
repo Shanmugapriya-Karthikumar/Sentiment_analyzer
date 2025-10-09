@@ -1,7 +1,5 @@
 # 📊 Sentiment Analyzer
 
-![Sentiment Analyzer Banner](https://user-images.githubusercontent.com/your-image-link)
-
 **Sentiment Analyzer** is an interactive AI-powered dashboard that transforms news into actionable insights. It fetches real-time news, performs sentiment analysis, visualizes trends, and forecasts public perception — all in a sleek Streamlit app.
 
 ---

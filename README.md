@@ -80,13 +80,6 @@ sentiment-analyzer/
 └── ngrok_setup.py  # Script to host app publicly
 ```
 
----
-
-## 🎨 Screenshots
-
-![Dashboard Screenshot](https://user-images.githubusercontent.com/your-screenshot-link)
-
----
 
 ## 📢 Future Enhancements
 
